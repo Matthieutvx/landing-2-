@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>NIKE</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+	<div class="banner">
+		<div class="container">
+				<h1>NIKE</h1>
+				<h2>The leading sports brand</h2>
+				<a href="#apply-section" class="btn-blue">new collection</a>
+		</div>
+	</div>
+
+		<div class="container">
+			<h2>background</h2>
+		<div class="cards">
+			<div class="card">
+				<img src="images/#" alt="description">
+				<h3>The project</h3>
+			</div>
+			<div class="card">
+				<img src="images/#" alt="shoes available">
+				<h3>shoes</h3>
+			</div>
+			<div class="card">
+				<img src="images/#" alt="clothes available">
+				<h3>clothes</h3>
+			</div>
+		</div>
+		</div>
+		<div>
+			<div data-tf-live="01JBHVFTFQ74BJ32QPVCES9JH0"></div><script src="//embed.typeform.com/next/embed.js"></script>
+			
+			</div>
+	</div>
+	</body>
+</html>}
